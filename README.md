@@ -1,0 +1,1 @@
+Created by following the MDN Web Docs tutorial [here](https://developer.mozilla.org/en-US/docs/WebAssembly/Rust_to_Wasm)
